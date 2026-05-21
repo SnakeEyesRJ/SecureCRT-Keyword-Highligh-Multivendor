@@ -1,9 +1,9 @@
-# SnakeLabs-EVE-PNET
+# SnakeLabs
 Handcrafted SecureCRT keyword highlighting for Cisco, Juniper, MPLS, BGP, OSPF, VRF and EVPN troubleshooting.
 
 ## Screenshots
 
-EVE-SNAKE was tuned using real Cisco and Juniper terminal outputs inside lab and troubleshooting sessions.
+EVE-SNAKE was tuned using real Cisco, HUawei and Juniper terminal outputs inside lab and troubleshooting sessions.
 
 ### Preview Gallery
 
