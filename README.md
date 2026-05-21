@@ -1,9 +1,9 @@
 # SnakeLabs
-Handcrafted SecureCRT keyword highlighting for Cisco, Juniper, MPLS, BGP, OSPF, VRF and EVPN troubleshooting.
+Handcrafted SecureCRT keyword highlighting for Cisco, Huawei and Juniper, MPLS, BGP, OSPF, VRF and EVPN troubleshooting.
 
 ## Screenshots
 
-EVE-SNAKE was tuned using real Cisco, HUawei and Juniper terminal outputs inside lab and troubleshooting sessions.
+EVE-SNAKE was tuned using real Cisco, Huawei and Juniper terminal outputs inside lab and troubleshooting sessions.
 
 ### Preview Gallery
 
