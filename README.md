@@ -2,9 +2,7 @@
 
 **Forged for SecureCRT. Tuned for routing chaos. Built for network engineers.**
 
-## Screenshots
-
-EVE-SNAKE was tuned using real Cisco, Huawei and Juniper terminal outputs inside lab and troubleshooting sessions.
+## EVE-SNAKE was tuned using real Cisco, Huawei, and Juniper terminal outputs from lab and troubleshooting sessions.
 
 ### Preview Gallery
 
