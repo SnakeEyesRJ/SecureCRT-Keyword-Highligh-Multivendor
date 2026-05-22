@@ -1,4 +1,6 @@
-# SnakeLabs — Legendary SecureCRT Keyword Highlighting .ini File Ready
+# SnakeLabs — Legendary SecureCRT Keyword Highlighting
+
+**Forged for SecureCRT. Tuned for routing chaos. Built for network engineers.**
 
 ## Screenshots
 
