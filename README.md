@@ -1,5 +1,4 @@
-# SnakeLabs
-Handcrafted SecureCRT keyword highlighting for Cisco, Huawei and Juniper, MPLS, BGP, OSPF, VRF and EVPN troubleshooting.
+# SnakeLabs — EVE-SNAKE SecureCRT Keyword Highlighting .ini File Ready
 
 ## Screenshots
 
