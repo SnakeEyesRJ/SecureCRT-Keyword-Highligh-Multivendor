@@ -2,7 +2,7 @@
 
 **Forged for SecureCRT. Tuned for routing chaos. Built for network engineers.**
 
-## EVE-SNAKE was tuned using real Cisco, Huawei, and Juniper terminal outputs from lab and troubleshooting sessions.
+## SnakeLabs was tuned using real Cisco, Huawei, and Juniper terminal outputs from lab and troubleshooting sessions.
 
 ### Preview Gallery
 
