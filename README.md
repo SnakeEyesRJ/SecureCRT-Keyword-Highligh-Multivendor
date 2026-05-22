@@ -1,4 +1,4 @@
-# SnakeLabs — EVE-SNAKE SecureCRT Keyword Highlighting .ini File Ready
+# SnakeLabs — Legendary SecureCRT Keyword Highlighting .ini File Ready
 
 ## Screenshots
 
